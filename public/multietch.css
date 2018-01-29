@@ -21,7 +21,8 @@ nav {
   z-index: 100;
 }
 
-a {
+a,
+.nested-links a {
   text-decoration: none;
   color: #5b277c;
   font-weight: bold;
@@ -31,7 +32,10 @@ a {
 
 a:hover,
 a:active,
-a:focus {
+a:focus,
+.nested-links a:hover,
+.nested-links a:active,
+.nested-links a:focus {
   color: #be4626;
   border-bottom-color: #be4626;
 }

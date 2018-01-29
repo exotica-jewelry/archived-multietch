@@ -8,7 +8,7 @@ description: "The low-acid alternative for titanium and other metals"
 
 {{< youtube DcjpP3toIac >}}
 
-<div class="flex-l justify-between mv4"><a href="/welding" title="How Multi-Etch® can be used when welding metals" class="preparing-button db dib-l pa3 mb4 mb0-l mr2-l tc f2 white br-pill">Preparing welding</a> <a href="/anodizing" title="How Multi-Etch® can be used when anodizing metals" class="preparing-button db dib-l pa3 ml2-l tc f2 white br-pill">Preparing anodizing</a></div>
+<a class="db pv3 b--white" id="preparing"></a><div class="flex-l justify-between mv4"><a href="/preparing/welding" title="How Multi-Etch® can be used when welding metals" class="preparing-button db dib-l pa3 mb4 mb0-l mr2-l tc f2 white br-pill">Preparing welding</a> <a href="/preparing/anodizing" title="How Multi-Etch® can be used when anodizing metals" class="preparing-button db dib-l pa3 ml2-l tc f2 white br-pill">Preparing anodizing</a></div>
 
 ## Using Multi-Etch® on Various Metals
 
@@ -65,7 +65,7 @@ Although my experience is with jewelry, there are many other industries where Mu
 
 ## Other questions and answers
 
-**Make sure to read all the instructions for titanium [welding]() or [anodizing]().**
+**Make sure to read all the instructions for titanium [welding](/preparing/welding) or [anodizing](/preparing/anodizing).**
 
 ### How long will Multi-Etch last?
 

@@ -1,0 +1,34 @@
+{{ define "main" }}
+<article class="pa3 pa4-ns nested-copy-line-height nested-img">
+  <main class="cf ph3 ph5-l pv3 pv4-l f4 center measure-wide lh-copy mid-gray">
+    {{ .Content }}
+  </main>
+  {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
+  {{ $mainSections := .Site.Params.mainSections | default (slice "metal") }}
+  {{/* Create a variable with that section to use in multiple places. */}}
+  {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+  {{/* Check to see if the section is defined for ranging through it */}}
+  {{ $section_count := len $section }}
+  {{ if ge $section_count 1 }}
+
+    <div class="pa0 measure-wide center black-90">
+
+      {{ $n_posts := $.Param "recent_posts_number" | default 3 }}
+
+      <section class="mw8">
+        <ul>
+          {{/* Range through the first $n_posts items of the section */}}
+          {{ range (first $n_posts $section) }}
+            <li class="mb2 mr2">
+              <a href="{{ .URL }}" class="link black-90">
+                {{ .Title }}
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      </section>
+
+    </div>
+  {{ end }}
+</article>
+{{ end }}

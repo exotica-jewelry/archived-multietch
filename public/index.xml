@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Anodizing with Multi-Etch®</title>
+      <link>http://localhost:1313/preparing/anodizing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      
+      <guid>http://localhost:1313/preparing/anodizing/</guid>
+      <description>How much to use and how long to etch will, of course, vary depending on what metal you use and what effect you’re after. Below are two examples.
+Example 1: For a production run of 50 titanium parts, approximately one square inch each, I use one cup of Multi-Etch® in a two-cup Pyrex® container, heated to about 150° F. You can use a thermometer or look for the built in Multi-Etch® bubbles which tell you when it’s ready to use (visual check.</description>
+    </item>
+    
+    <item>
       <title>Etching brass with Multi-Etch®</title>
       <link>http://localhost:1313/metal/brass/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
@@ -103,6 +113,16 @@ I have not tested Multi-Etch® with rhodium plating, but I have used it to clean
       <guid>http://localhost:1313/metal/silver/</guid>
       <description>I originally perfected Multi-Etch® for titanium production. It’s a nonacid (pH 6.8) alternative to hydrofluoric acid. I’ve also tested it on other metals with great results.
 You can use Multi-Etch® to remove light firescale from silver.</description>
+    </item>
+    
+    <item>
+      <title>Welding with Multi-Etch®</title>
+      <link>http://localhost:1313/preparing/welding/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      
+      <guid>http://localhost:1313/preparing/welding/</guid>
+      <description>I originally perfected Multi-Etch® for titanium production. It’s a nonacid (pH 6.8) alternative to hydrofluoric acid. I’ve also tested it on other metals with great results.
+You can use Multi-Etch® for etching brass; the brass will etch more quickly than titanium.</description>
     </item>
     
   </channel>
