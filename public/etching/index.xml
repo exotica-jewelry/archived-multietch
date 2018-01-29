@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Multi-Etch®</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Multi-Etch®</description>
+    <title>Etching materials with Multi-Etch® on Multi-Etch®</title>
+    <link>http://localhost:1313/etching/</link>
+    <description>Recent content in Etching materials with Multi-Etch® on Multi-Etch®</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Multi-Etch® LLC</copyright>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/etching/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

@@ -1,0 +1,21 @@
+{{ define "header" }}
+   {{/* We can override any block in the baseof file by defining it in the template */}}
+  {{ partial "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  <div class="flex-l mt2 mw8 center">
+    <article class="center cf pv1 pv3-m pv4-l ph3 ph4-ns mw6">
+      <h1 class="f1">
+        {{ .Title }}
+      </h1>
+      <section class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
+        {{ .Content }}
+      </section>
+      {{ partial "tags.html" . }}
+    </article>
+    <div class="ph3 mv4 mt6-l">
+      {{ partial "menu-contextual.html" . }}
+    </div>
+  </div>
+{{ end }}

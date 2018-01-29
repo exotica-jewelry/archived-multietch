@@ -2,7 +2,7 @@
   Trimming the slash and adding absURL make sure images work no matter where our
   site lives.
 */}}
-{{ $featured_image := .Param "featured_image" | default "images/gohugo-default-sample-hero-image.jpg" }}
+{{ $featured_image := .Param "featured_image" | default "images/header.jpg" }}
 {{ $featured_image := (trim $featured_image "/") | absURL }}
 {{ $logo := (trim .Site.Params.logo "/") | absURL }}
 
