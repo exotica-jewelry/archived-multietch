@@ -44,7 +44,7 @@ SectionPagesMenu = "secondary"
 [params]
   env = "production"
   body_classes = "bg-near-white"
-  favicon = ""
+  favicon = "yes"
   logo = "/images/logo.png"
   facebook = ""
   twitter = ""
