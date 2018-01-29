@@ -1,8 +1,10 @@
 ---
 title: "Multi-Etch®"
 featured_image: "/images/header.jpg"
-description: "The low-acid alternative for titanium and other metals"
+description: "Optimize titanium for welding and anodizing without hydrofluoric acid!"
 ---
+
+### The low-acid alternative for titanium and other metals
 
 {{< figure src="/images/ita.jpg" alt="Proud member of the International Titanium Association" link="http://www.titanium.org" >}}
 
