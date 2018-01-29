@@ -2,34 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Preparing metals with Multi-Etch® on Multi-Etch®</title>
-    <link>http://localhost:1313/preparing/</link>
+    <link>http://multietch.com/preparing/</link>
     <description>Recent content in Preparing metals with Multi-Etch® on Multi-Etch®</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Multi-Etch® LLC</copyright>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/preparing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://multietch.com/preparing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Anodizing with Multi-Etch®</title>
-      <link>http://localhost:1313/preparing/anodizing/</link>
+      <link>http://multietch.com/preparing/anodizing/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
       
-      <guid>http://localhost:1313/preparing/anodizing/</guid>
+      <guid>http://multietch.com/preparing/anodizing/</guid>
       <description>How much to use and how long to etch will, of course, vary depending on what metal you use and what effect you’re after. Below are two examples.
 Example 1: For a production run of 50 titanium parts, approximately one square inch each, I use one cup of Multi-Etch® in a two-cup Pyrex® container, heated to about 150° F. You can use a thermometer or look for the built in Multi-Etch® bubbles which tell you when it’s ready to use (visual check.</description>
     </item>
     
     <item>
       <title>Welding with Multi-Etch®</title>
-      <link>http://localhost:1313/preparing/welding/</link>
+      <link>http://multietch.com/preparing/welding/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
       
-      <guid>http://localhost:1313/preparing/welding/</guid>
-      <description>I originally perfected Multi-Etch® for titanium production. It’s a nonacid (pH 6.8) alternative to hydrofluoric acid. I’ve also tested it on other metals with great results.
-You can use Multi-Etch® for etching brass; the brass will etch more quickly than titanium.</description>
+      <guid>http://multietch.com/preparing/welding/</guid>
+      <description>When welding titanium components that need to withstand the rigors of deep space and deep water, it is critical to have absolutely clean titanium and that is what Multi-Etch® will provide.
+Double strength is recommended for etching at room temperature; heated solution works faster.
+When using Multi-Etch® at room temperature, dip your pieces for 90 seconds and rinse thoroughly; ultrasonic cleaning is recommended.
+When using regular strength Multi-Etch®, heat to 150ºF, dip for 7 seconds and rinse thoroughly; ultrasonic cleaning is advisable.</description>
     </item>
     
   </channel>

@@ -10,7 +10,7 @@ description: "Optimize titanium for welding and anodizing without hydrofluoric a
 
 <a class="db pv3 b--white" id="preparing"></a><div class="flex-l justify-between mv4"><a href="/preparing/welding" title="How Multi-Etch® can be used when welding metals" class="preparing-button db dib-l pa3 mb4 mb0-l mr2-l tc f2 white br-pill">Preparing welding</a> <a href="/preparing/anodizing" title="How Multi-Etch® can be used when anodizing metals" class="preparing-button db dib-l pa3 ml2-l tc f2 white br-pill">Preparing anodizing</a></div>
 
-## Using Multi-Etch® on Various Metals
+## Using Multi-Etch® on various metals
 
 **Multi-Etch® is a low-acid (pH 6.8) alternative to hydrofluoric acid and can be used on the following metals:**
 
@@ -127,13 +127,12 @@ Available in **Canada** through **The Ring Lord**.
 : [(855) 746-4567](tel:+18557464567)
 : [www.theringlord.com](http://theringlord.com)
 
-## Anodizing Production Equipment
+## Anodizing production equipment
 
 When you’re ready to scale up your operation to a custom production anodizing system, contact [AnodizeTitanium.com](http://AnodizeTitanium.com) and click on “request a quote” or “hire an expert.”
 
-## Other Uses of Multi-Etch®
+## Other uses of Multi-Etch®
 
 I am always eager to learn more about what Multi-Etch® can and cannot do. Please email me with comments, complaints, or kudos: [info@multietch.com](mailto:info@multietch.com).
 
 —Chris Boothe, developer, Multi-Etch®
-
