@@ -1,0 +1,56 @@
+baseURL = "http://multietch.com/"
+languageCode = "en-us"
+theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+
+title = "Multi-Etch®"
+# Description (slogan) is located in _index.md
+copyright = "Multi-Etch® LLC"
+
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[[menu.main]]
+    name = "Preparing"
+    identifier = "Preparing metals for use with Multi-Etch®"
+    url = "/#preparing"
+    weight = -40
+[[menu.main]]
+    name = "Using"
+    identifier = "How to use Multi-Etch® on various metals"
+    url = "/#using-multi-etch-on-various-metals"
+    weight = -30
+[[menu.main]]
+    name = "Safety"
+    identifier = "Multi-Etch® safety"
+    url = "/#safety-of-multi-etch"
+    weight = -20
+[[menu.main]]
+    name = "How to Order"
+    identifier = "Ordering Multi-Etch®"
+    url = "/#ordering-multi-etch"
+    weight = -10
+
+SectionPagesMenu = "secondary"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  body_classes = ""
+  favicon = ""
+  logo = "/images/logo.png"
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  linkedin = ""
+  # use colors from http://tachyons.io/docs/themes/skins/ prefaced with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 2

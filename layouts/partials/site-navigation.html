@@ -1,0 +1,21 @@
+<nav class="pv0 ph3 ph4-ns bg-black-30 tc tl-l" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="{{ .Site.BaseURL }}" class="f3 fw3 hover-white no-underline white-90 pv3 dib">
+      {{ .Site.Title }}
+    </a>
+    <div class="flex-l items-center">
+      {{ if .Site.Menus.main }}
+        <ul class="mv0 pl0 mr3 pb3 pb0-m pb0-l">
+          {{ range .Site.Menus.main }}
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90 pv0 pv3-m pv3-l grow dib" href="{{ .URL }}" title="{{ .Identifier }}">
+              {{ .Name }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+      {{ partial "social-follow.html" . }}
+    </div>
+  </div>
+</nav>

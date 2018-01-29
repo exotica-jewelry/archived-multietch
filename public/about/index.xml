@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Multi-Etch®</title>
+    <link>http://multietch.com/about/</link>
+    <description>Recent content in About on Multi-Etch®</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Multi-Etch® LLC</copyright>
+    
+	<atom:link href="http://multietch.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
