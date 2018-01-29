@@ -53,4 +53,4 @@ SectionPagesMenu = "secondary"
   linkedin = ""
   # use colors from http://tachyons.io/docs/themes/skins/ prefaced with "bg-"
   background_color_class = "bg-black"
-  recent_posts_number = 2
+  recent_posts_number = 99

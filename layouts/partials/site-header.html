@@ -12,6 +12,7 @@
       {{ partial "site-navigation.html" .}}
       <div class="tc-m tc-l pv0 ph3 ph4-ns">
         <h1 class="f2 f-subheadline-l fw2 white-90 mb0 mt0 lh-title">
+          <span class="dn">{{ .Title | default .Site.Title }}</span>
           <img src="{{ $logo }}" alt="{{ .Title | default .Site.Title }}: A safer alternative since 1993" />
         </h1>
         {{ with .Params.description }}
