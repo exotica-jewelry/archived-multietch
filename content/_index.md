@@ -100,7 +100,7 @@ Just how **safe** is Multi-Etch compared to hydrofluoric or nitric acid? Well, w
 * [Download the Multi-Etch Material Safety Data Sheet (PDF)](/docs/MultiEtch-SDS-dry.pdf) (Dry Powder).
 * [Download the Multi-Etch Material Safety Data Sheet (PDF)](/docs/MultiEtch-SDS-liquid.pdf) (Liquid).
 
-For 24-hour emergency assistance, call **(800) 535-5053**.
+For 24-hour emergency assistance, call **[(800) 535-5053](tel:+18005355053)**.
 
 ## History of Multi-Etch®
 
@@ -119,14 +119,14 @@ Multi-Etch is available in the **United States** through:
 **Reactive Metals Studio**, Clarkdale, AZ
 : [Email Reactive Metals
 ](mailto:info@reactivemetals.com)
-: (800) 876-3434 or (928) 634-3434
+: [(800) 876-3434](tel:+18008763434) or [(928) 634-3434](tel:+19286343434)
 : [www.reactivemetals.com](http://www.reactivemetals.com)
 
 Available in **Canada** through **The Ring Lord**.
 
 **[Order online (Canada only)](http://theringlord.com/cart/shopdisplayproducts.asp?Search=Yes&sppp=1000&page=1&Keyword=multietch&category=ALL&highprice=&lowprice=&allwords=multietch&exact=&atleast=&without=&cprice=&searchfields=)**
 : [Email The Ring Lord](mailto:customerservice@theringlord.com)
-: (855) 746-4567
+: [(855) 746-4567](tel:+18557464567)
 : [www.theringlord.com](http://theringlord.com)
 
 ## Anodizing Production Equipment

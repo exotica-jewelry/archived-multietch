@@ -15,8 +15,7 @@
       <meta name="robots" content="noindex, nofollow">
     
 
-    <link rel='stylesheet' href='//fonts.googleapis.com/css?family=Bitter%3A400%2C700%2C400italic&#038;ver=1dc9f39672a745f22d0a39d285f44578' type='text/css' media='all' />
-    <link rel='stylesheet' href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C700%2C400italic%2C700italic&#038;ver=1dc9f39672a745f22d0a39d285f44578' type='text/css' media='all' />
+    <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Bitter:400,400i,700/Source+Sans+Pro:400,400i,700,700i">
 
     <link href='http://localhost:1313/dist/main.css' rel='stylesheet' type="text/css" />
 
@@ -44,15 +43,6 @@
         z-index: 100;
       }
 
-      header a,
-      figure a,
-      .article-index a,
-      footer a {
-        font-weight: inherit;
-        border-bottom: none;
-        transition: all 0s;
-      }
-
       a {
         text-decoration: none;
         color: #5b277c;
@@ -66,6 +56,26 @@
       a:focus {
         color: #be4626;
         border-bottom-color: #be4626;
+      }
+
+      a[href^="tel"] {
+        color: inherit;
+        font-weight: normal;
+        border-bottom-style: dashed;
+      }
+
+      a[href^="tel"]::before {
+        content: '\260e';
+        margin: 0 0.25rem;
+      }
+
+      header a,
+      figure a,
+      .article-index a,
+      footer a {
+        font-weight: inherit;
+        border-bottom: none;
+        transition: all 0s;
       }
 
       h1,
@@ -364,13 +374,17 @@ I manufacture a line of titanium wedding rings with platinum inlays."/>
     </main>
     <footer class="bg-near-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-  <a class="f6 f4-ns fw4 hover-white no-underline white-70 dib-ns pv2 ph3" href="http://localhost:1313/" >
-    &copy; 2018 <span class="nowrap">Multi-Etch® LLC</span>
-  </a>
-  <span class="f6 f4-ns fw4 no-underline white-70 dib-ns pv2 ph3">
-    Powered by <a href="https://gohugo.io/" target="_blank" class="white">Hugo</a>, web development by <a href="http://rootwork.org" target="_blank" class="white">Rootwork.org</a>
-  </span>
-  
+    <span class="dib-ns pv2 ph3">
+      <a class="f5 f4-ns white db" href="http://localhost:1313/" >
+        &copy; 2018 <span class="nowrap">Multi-Etch® LLC</span>
+      </a>
+      <a class="f6 f5-ns white db" href="mailto:info@multietch.com">info@multietch.com</a>
+      <span class="f6 f5-ns white-70 db">Clarkdale, Arizona, United States</span>
+    </span>
+    <span class="f6 f5-ns white-70 dib-ns pv2 ph3">
+      Powered by <a href="https://gohugo.io/" target="_blank" class="white">Hugo</a>, web development by <a href="http://rootwork.org" target="_blank" class="white">Rootwork.org</a>
+    </span>
+    
 
 
 
