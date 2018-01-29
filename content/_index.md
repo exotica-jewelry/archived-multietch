@@ -8,9 +8,7 @@ description: "The low-acid alternative for titanium and other metals"
 
 {{< youtube DcjpP3toIac >}}
 
-## Preparing
-
-[Preparing welding / Preparing anodizing]
+<div class="flex-l justify-between mv4"><a href="/welding" title="How Multi-Etch® can be used when welding metals" class="preparing-button db dib-l pa3 mb4 mb0-l mr2-l tc f2 white br-pill">Preparing welding</a> <a href="/anodizing" title="How Multi-Etch® can be used when anodizing metals" class="preparing-button db dib-l pa3 ml2-l tc f2 white br-pill">Preparing anodizing</a></div>
 
 ## Using Multi-Etch® on Various Metals
 
