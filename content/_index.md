@@ -14,35 +14,35 @@ description: "The low-acid alternative for titanium and other metals"
 
 ## Using Multi-Etch® on Various Metals
 
-**Multi-Etch® is a low-acid **(pH 6.8) alternative to hydrofluoric acid and can be used on the following metals:**
+**Multi-Etch® is a low-acid (pH 6.8) alternative to hydrofluoric acid and can be used on the following metals:**
 
-* Titanium
-* Niobium
-* Platinum
-* Copper
-* Magnesium
-* Aluminum
-* Zirconium
-* Nickel
-* Brass
-* Steel
-* Silver
-* Palladium
-* Tantalum
-* Mokume
-* Meteorite
-* Bronze
-* Hafnium
-* Pewter
-* Zinc
+<ul class="column-list">
+  <li>Titanium</li>
+  <li>Niobium</li>
+  <li>Platinum</li>
+  <li>Copper</li>
+  <li>Magnesium</li>
+  <li>Aluminum</li>
+  <li>Zirconium</li>
+  <li>Nickel</li>
+  <li>Brass</li>
+  <li>Steel</li>
+  <li>Silver</li>
+  <li>Palladium</li>
+  <li>Tantalum</li>
+  <li>Mokume</li>
+  <li>Meteorite</li>
+  <li>Bronze</li>
+  <li>Hafnium</li>
+  <li>Pewter</li>
+  <li>Zinc</li>
+</ul>
 
-#### [Click here for chart of Etch Times and Effects](http://multietch.com/wp-content/uploads/2009/01/MEetchTimes.pdf) (PDF) for all metals tested with Multi-Etch®.
+#### [Click here for chart of Etch Times and Effects](/docs/MEetchTimes.pdf) (PDF) for all metals tested with Multi-Etch®.
 
 More information on select metals is below. For metals not included here, [ask us](mailto:info@multietch.com) or send a sample and we’ll test it for you.
 
-<figure id="attachment_190" style="width: 576px" class="wp-caption aligncenter">![](http://multietch.com/wp-content/uploads/2009/01/MEcolor1.jpg "MEcolor")
-<figcaption class="wp-caption-text">Anodized titanium unetched (top), and treated with Multi-Etch (bottom), anodized all at once.</figcaption>
-</figure>
+{{< figure src="/images/MEcolor.jpg" alt="Demonstration of anodizing colors before and after using Multi-Etch®" caption="Anodized titanium unetched (top), and treated with Multi-Etch (bottom), anodized all at once." >}}
 
 On **titanium** and **niobium**, I use Multi-Etch to remove anodizing mistakes and to clean off contamination—iron from rolling mills, minor heat oxides, etc. Multi-Etch will maintain the finish/texture on titanium and niobium as long as the metal is not etched too long. Above is a single piece of titanium that I left “as is” on the top, cleaned with Multi-Etch on the bottom, and then anodized. It looks like I anodized them separately but I did it all at once.
 
@@ -50,17 +50,18 @@ On **titanium** and **niobium**, I use Multi-Etch to remove anodizing mistakes a
 
 I have used Multi-Etch to remove broken **steel** drill bits trapped in titanium and gold.
 
-Multi-Etch will enhance the patterns in **mokumé** and the crystals in **meteorites** by etching the different metals at different rates, thus slightly raising one over another.
+Multi-Etch will enhance the patterns in **mokume** and the crystals in **meteorites** by etching the different metals at different rates, thus slightly raising one over another.
 
 Here is some meteorite showing before and after treatment with Multi-Etch:
 
-<figure id="attachment_13" style="width: 192px" class="wp-caption alignleft">![Untreated meteorite](http://multietch.com/wp-content/uploads/2009/01/met-a.jpg "Untreated meteorite")
-<figcaption class="wp-caption-text">Untreated meteorite</figcaption>
-</figure>
-
-<figure id="attachment_14" style="width: 192px" class="wp-caption alignleft">![Meteorite treated with Multi-Etch](http://multietch.com/wp-content/uploads/2009/01/met-b.jpg "Meteorite treated with Multi-Etch")
-<figcaption class="wp-caption-text">Meteorite treated with Multi-Etch</figcaption>
-</figure>
+<div class="two-column">
+    <div class="column">
+        {{< figure src="/images/MEt-a.jpg" alt="" caption="Untreated meteorite" >}}
+    </div>
+    <div class="column">
+        {{< figure src="/images/MEt-b.jpg" alt="" caption="Meteorite treated with Multi-Etch®" >}}
+    </div>
+</div>
 
 Although my experience is with jewelry, there are many other industries where Muti-Etch is used, such as the dental and medical industries which use a lot of titanium.
 
@@ -96,11 +97,10 @@ _If you discover something not covered here, please let us know! [info@multietch
 
 Just how **safe** is Multi-Etch compared to hydrofluoric or nitric acid? Well, while I would never recommend this, I have reached my hand into 100°+ F heated Multi-Etch to retrieve a part and I suffered no ill effects (all ten digits and skin intact).  You would suffer significant damage if you tried that with hydrofluoric or nitric acids.
 
-[Download the Multi-Etch Material Safety Data Sheet (PDF)](http://multietch.com/wp-content/uploads/2009/01/Multi-Etch-SDS.pdf) (Dry Powder).
+* [Download the Multi-Etch Material Safety Data Sheet (PDF)](/docs/MultiEtch-SDS-dry.pdf) (Dry Powder).
+* [Download the Multi-Etch Material Safety Data Sheet (PDF)](/docs/MultiEtch-SDS-liquid.pdf) (Liquid).
 
-[Download the Multi-Etch Material Safety Data Sheet (PDF)](http://multietch.com/wp-content/uploads/2009/01/MultiEtch-SDS-US-5-3-12-liquid-1-1.pdf) (Liquid).
-
-For 24-hour emergency assistance, call 800-535-5053.
+For 24-hour emergency assistance, call **(800) 535-5053**.
 
 ## History of Multi-Etch®
 
@@ -114,19 +114,20 @@ Artists and metalsmiths working with hydrofluoric acid need to realize the dire 
 
 ## Ordering Multi-Etch®
 
-Multi-Etch is available in the **U.S.A.** through:
+Multi-Etch is available in the **United States** through:
 
 **Reactive Metals Studio**, Clarkdale, AZ
-[Email Reactive Metals
-](mailto:info@reactivemetals.com)(800) 876-3434 or (928) 634-3434
-[www.reactivemetals.com](http://www.reactivemetals.com)
+: [Email Reactive Metals
+](mailto:info@reactivemetals.com)
+: (800) 876-3434 or (928) 634-3434
+: [www.reactivemetals.com](http://www.reactivemetals.com)
 
-Now available in **Canada** through **The Ring Lord**.
+Available in **Canada** through **The Ring Lord**.
 
 **[Order online (Canada only)](http://theringlord.com/cart/shopdisplayproducts.asp?Search=Yes&sppp=1000&page=1&Keyword=multietch&category=ALL&highprice=&lowprice=&allwords=multietch&exact=&atleast=&without=&cprice=&searchfields=)**
-[Email The Ring Lord](mailto:customerservice@theringlord.com)
-(855) 746-4567
-[www.theringlord.com](http://theringlord.com)
+: [Email The Ring Lord](mailto:customerservice@theringlord.com)
+: (855) 746-4567
+: [www.theringlord.com](http://theringlord.com)
 
 ## Anodizing Production Equipment
 
@@ -134,7 +135,7 @@ When you’re ready to scale up your operation to a custom production anodizing 
 
 ## Other Uses of Multi-Etch®
 
-I am always eager to learn more about what Multi-Etch<sup>®</sup> can and cannot do. Please email me with comments, complaints, or kudos: [info@multietch.com](mailto:info@multietch.com).
+I am always eager to learn more about what Multi-Etch® can and cannot do. Please email me with comments, complaints, or kudos: [info@multietch.com](mailto:info@multietch.com).
 
-—Chris Boothe, developer, Multi-Etch<sup>®</sup>
+—Chris Boothe, developer, Multi-Etch®
 

@@ -12,10 +12,131 @@
     <meta name="generator" content="Hugo 0.32.2" />
     
     
-      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      <meta name="robots" content="noindex, nofollow">
     
 
+    <link rel='stylesheet' href='//fonts.googleapis.com/css?family=Bitter%3A400%2C700%2C400italic&#038;ver=1dc9f39672a745f22d0a39d285f44578' type='text/css' media='all' />
+    <link rel='stylesheet' href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C700%2C400italic%2C700italic&#038;ver=1dc9f39672a745f22d0a39d285f44578' type='text/css' media='all' />
+
     <link href='http://localhost:1313/dist/main.css' rel='stylesheet' type="text/css" />
+
+    <style>
+      body {
+        background-image: url('/images/background.jpg');
+        background-repeat: repeat;
+        font-family: 'Source Sans Pro';
+      }
+
+      nav {
+        width: 100%;
+        max-width: 100vw;
+        z-index: 100;
+      }
+
+      header a,
+      footer a {
+        font-weight: inherit;
+        border-bottom: none;
+        transition: all 0s;
+      }
+
+      a {
+        text-decoration: none;
+        color: #5b277c;
+        font-weight: bold;
+        border-bottom: 1px #5b277c dotted;
+        transition: all .3s;
+      }
+
+      a:hover,
+      a:active,
+      a:focus {
+        color: #be4626;
+        border-bottom-color: #be4626;
+      }
+
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6,
+      input[type="text"],
+      input[type="email"],
+      button,
+      .button,
+      input[type="submit"],
+      input[type="reset"] {
+        font-family: 'Bitter';
+      }
+
+      h1 {
+        font-size: 2.5rem;
+        line-height: 1.25;
+      }
+
+      h2 {
+        font-size: 2rem;
+        line-height: 1.3;
+      }
+
+      h3 {
+        font-size: 1.75rem;
+        line-height: 1.4;
+      }
+
+      h4 {
+        font-size: 1.5rem;
+        line-height: 1.5;
+      }
+
+      .lh-copy {  
+        line-height: 1.6;
+      }
+
+      figcaption p {
+        margin: 0;
+        font-size: 0.85em;
+        font-style: italic;
+        line-height: 1.25;
+      }
+
+      .column-list {
+        column-count: 1;
+      }
+
+      @media screen and (min-width: 24em) {
+        .column-list {
+          column-count: 2;
+        }
+      }
+
+      @media screen and (min-width: 30em) {
+        .column-list {
+          column-count: 3;
+        }
+      }
+
+      .column {
+        display: inline-block;
+        vertical-align: top;
+      }
+
+      .column figure,
+      .column p {
+        margin-top: 0;
+        margin-bottom: 0;
+      }
+
+      .two-column {
+        width: 100%;
+      }
+
+      .two-column .column {
+        width: 49%;
+      }
+    </style>
+
     
       
     
@@ -51,7 +172,7 @@
 
   </head>
 
-  <body class="ma0 avenir bg-near-white" style="background-image: url('/images/background.jpg'); background-repeat: repeat;">
+  <body class="ma0 bg-near-white">
 
     
 
@@ -61,9 +182,9 @@
 
   <header class="cover bg-top" style="background-image: url('http://localhost:1313/images/header.jpg');">
     <div class="bg-black-10">
-      <nav class="fixed-l pv0 ph0 bg-black-30 tc tl-l" style="width: 100%; max-width: 100vw; z-index: 100;" role="navigation" >
+      <nav class="fixed-l pv0 ph0 bg-black-30 tc tl-l" role="navigation" >
   <div class="mh3 mh4-ns flex-l justify-between items-center center">
-    <a href="http://localhost:1313/" class="mh2 mh3-ns f3 fw3 hover-white no-underline white-90 pv3 dib">
+    <a href="http://localhost:1313/" class="mh2 mh3-ns f3 fw3 hover-white white-90 pv3 dib">
       Multi-Etch®
     </a>
     <div class="flex-l items-center">
@@ -71,25 +192,25 @@
         <ul class="mv0 pl0 mr3 pb3 pb0-m pb0-l">
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90 pv0 pv3-m pv3-l grow dib" href="/#preparing" title="Preparing metals for use with Multi-Etch®">
+            <a class="hover-white white-90 pv0 pv3-m pv3-l grow dib" href="/#preparing" title="Preparing metals for use with Multi-Etch®">
               Preparing
             </a>
           </li>
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90 pv0 pv3-m pv3-l grow dib" href="/#using-multi-etch-on-various-metals" title="How to use Multi-Etch® on various metals">
+            <a class="hover-white white-90 pv0 pv3-m pv3-l grow dib" href="/#using-multi-etch-on-various-metals" title="How to use Multi-Etch® on various metals">
               Using
             </a>
           </li>
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90 pv0 pv3-m pv3-l grow dib" href="/#safety-of-multi-etch" title="Multi-Etch® safety">
+            <a class="hover-white white-90 pv0 pv3-m pv3-l grow dib" href="/#safety-of-multi-etch" title="Multi-Etch® safety">
               Safety
             </a>
           </li>
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90 pv0 pv3-m pv3-l grow dib" href="/#ordering-multi-etch" title="Ordering Multi-Etch®">
+            <a class="hover-white white-90 pv0 pv3-m pv3-l grow dib" href="/#ordering-multi-etch" title="Ordering Multi-Etch®">
               How to Order
             </a>
           </li>
@@ -149,37 +270,51 @@
 
 <h2 id="using-multi-etch-on-various-metals">Using Multi-Etch® on Various Metals</h2>
 
-<p>**Multi-Etch® is a low-acid <strong>(pH 6.8) alternative to hydrofluoric acid and can be used on the following metals:</strong></p>
+<p><strong>Multi-Etch® is a low-acid (pH 6.8) alternative to hydrofluoric acid and can be used on the following metals:</strong></p>
 
-<ul>
-<li>Titanium</li>
-<li>Niobium</li>
-<li>Platinum</li>
-<li>Copper</li>
-<li>Magnesium</li>
-<li>Aluminum</li>
-<li>Zirconium</li>
-<li>Nickel</li>
-<li>Brass</li>
-<li>Steel</li>
-<li>Silver</li>
-<li>Palladium</li>
-<li>Tantalum</li>
-<li>Mokume</li>
-<li>Meteorite</li>
-<li>Bronze</li>
-<li>Hafnium</li>
-<li>Pewter</li>
-<li>Zinc</li>
+<ul class="column-list">
+  <li>Titanium</li>
+  <li>Niobium</li>
+  <li>Platinum</li>
+  <li>Copper</li>
+  <li>Magnesium</li>
+  <li>Aluminum</li>
+  <li>Zirconium</li>
+  <li>Nickel</li>
+  <li>Brass</li>
+  <li>Steel</li>
+  <li>Silver</li>
+  <li>Palladium</li>
+  <li>Tantalum</li>
+  <li>Mokume</li>
+  <li>Meteorite</li>
+  <li>Bronze</li>
+  <li>Hafnium</li>
+  <li>Pewter</li>
+  <li>Zinc</li>
 </ul>
 
-<h4 id="click-here-for-chart-of-etch-times-and-effects-http-multietch-com-wp-content-uploads-2009-01-meetchtimes-pdf-pdf-for-all-metals-tested-with-multi-etch"><a href="http://multietch.com/wp-content/uploads/2009/01/MEetchTimes.pdf">Click here for chart of Etch Times and Effects</a> (PDF) for all metals tested with Multi-Etch®.</h4>
+<h4 id="click-here-for-chart-of-etch-times-and-effects-docs-meetchtimes-pdf-pdf-for-all-metals-tested-with-multi-etch"><a href="/docs/MEetchTimes.pdf">Click here for chart of Etch Times and Effects</a> (PDF) for all metals tested with Multi-Etch®.</h4>
 
 <p>More information on select metals is below. For metals not included here, <a href="mailto:info@multietch.com">ask us</a> or send a sample and we’ll test it for you.</p>
 
-<figure id="attachment_190" style="width: 576px" class="wp-caption aligncenter">![](http://multietch.com/wp-content/uploads/2009/01/MEcolor1.jpg "MEcolor")
-<figcaption class="wp-caption-text">Anodized titanium unetched (top), and treated with Multi-Etch (bottom), anodized all at once.</figcaption>
+
+<figure >
+    
+        <img src="/images/MEcolor.jpg" alt="Demonstration of anodizing colors before and after using Multi-Etch®" />
+    
+    
+    <figcaption>
+        <p>
+        Anodized titanium unetched (top), and treated with Multi-Etch (bottom), anodized all at once.
+        
+            
+        
+        </p> 
+    </figcaption>
+    
 </figure>
+
 
 <p>On <strong>titanium</strong> and <strong>niobium</strong>, I use Multi-Etch to remove anodizing mistakes and to clean off contamination—iron from rolling mills, minor heat oxides, etc. Multi-Etch will maintain the finish/texture on titanium and niobium as long as the metal is not etched too long. Above is a single piece of titanium that I left “as is” on the top, cleaned with Multi-Etch on the bottom, and then anodized. It looks like I anodized them separately but I did it all at once.</p>
 
@@ -187,17 +322,50 @@
 
 <p>I have used Multi-Etch to remove broken <strong>steel</strong> drill bits trapped in titanium and gold.</p>
 
-<p>Multi-Etch will enhance the patterns in <strong>mokumé</strong> and the crystals in <strong>meteorites</strong> by etching the different metals at different rates, thus slightly raising one over another.</p>
+<p>Multi-Etch will enhance the patterns in <strong>mokume</strong> and the crystals in <strong>meteorites</strong> by etching the different metals at different rates, thus slightly raising one over another.</p>
 
 <p>Here is some meteorite showing before and after treatment with Multi-Etch:</p>
 
-<figure id="attachment_13" style="width: 192px" class="wp-caption alignleft">![Untreated meteorite](http://multietch.com/wp-content/uploads/2009/01/met-a.jpg "Untreated meteorite")
-<figcaption class="wp-caption-text">Untreated meteorite</figcaption>
+<div class="two-column">
+    <div class="column">
+        
+<figure >
+    
+        <img src="/images/MEt-a.jpg" alt="Untreated meteorite" />
+    
+    
+    <figcaption>
+        <p>
+        Untreated meteorite
+        
+            
+        
+        </p> 
+    </figcaption>
+    
 </figure>
 
-<figure id="attachment_14" style="width: 192px" class="wp-caption alignleft">![Meteorite treated with Multi-Etch](http://multietch.com/wp-content/uploads/2009/01/met-b.jpg "Meteorite treated with Multi-Etch")
-<figcaption class="wp-caption-text">Meteorite treated with Multi-Etch</figcaption>
+    </div>
+    <div class="column">
+        
+<figure >
+    
+        <img src="/images/MEt-b.jpg" alt="Meteorite treated with Multi-Etch®" />
+    
+    
+    <figcaption>
+        <p>
+        Meteorite treated with Multi-Etch®
+        
+            
+        
+        </p> 
+    </figcaption>
+    
 </figure>
+
+    </div>
+</div>
 
 <p>Although my experience is with jewelry, there are many other industries where Muti-Etch is used, such as the dental and medical industries which use a lot of titanium.</p>
 
@@ -233,11 +401,12 @@
 
 <p>Just how <strong>safe</strong> is Multi-Etch compared to hydrofluoric or nitric acid? Well, while I would never recommend this, I have reached my hand into 100°+ F heated Multi-Etch to retrieve a part and I suffered no ill effects (all ten digits and skin intact).  You would suffer significant damage if you tried that with hydrofluoric or nitric acids.</p>
 
-<p><a href="http://multietch.com/wp-content/uploads/2009/01/Multi-Etch-SDS.pdf">Download the Multi-Etch Material Safety Data Sheet (PDF)</a> (Dry Powder).</p>
+<ul>
+<li><a href="/docs/MultiEtch-SDS-dry.pdf">Download the Multi-Etch Material Safety Data Sheet (PDF)</a> (Dry Powder).</li>
+<li><a href="/docs/MultiEtch-SDS-liquid.pdf">Download the Multi-Etch Material Safety Data Sheet (PDF)</a> (Liquid).</li>
+</ul>
 
-<p><a href="http://multietch.com/wp-content/uploads/2009/01/MultiEtch-SDS-US-5-3-12-liquid-1-1.pdf">Download the Multi-Etch Material Safety Data Sheet (PDF)</a> (Liquid).</p>
-
-<p>For 24-hour emergency assistance, call 800-535-5053.</p>
+<p>For 24-hour emergency assistance, call <strong>(800) 535-5053</strong>.</p>
 
 <h2 id="history-of-multi-etch">History of Multi-Etch®</h2>
 
@@ -251,19 +420,24 @@
 
 <h2 id="ordering-multi-etch">Ordering Multi-Etch®</h2>
 
-<p>Multi-Etch is available in the <strong>U.S.A.</strong> through:</p>
+<p>Multi-Etch is available in the <strong>United States</strong> through:</p>
 
-<p><strong>Reactive Metals Studio</strong>, Clarkdale, AZ
-<a href="mailto:info@reactivemetals.com">Email Reactive Metals
-</a>(800) 876-3434 or (928) 634-3434
-<a href="http://www.reactivemetals.com">www.reactivemetals.com</a></p>
+<dl>
+<dt><strong>Reactive Metals Studio</strong>, Clarkdale, AZ</dt>
+<dd><a href="mailto:info@reactivemetals.com">Email Reactive Metals
+</a></dd>
+<dd>(800) 876-3434 or (928) 634-3434</dd>
+<dd><a href="http://www.reactivemetals.com">www.reactivemetals.com</a></dd>
+</dl>
 
-<p>Now available in <strong>Canada</strong> through <strong>The Ring Lord</strong>.</p>
+<p>Available in <strong>Canada</strong> through <strong>The Ring Lord</strong>.</p>
 
-<p><strong><a href="http://theringlord.com/cart/shopdisplayproducts.asp?Search=Yes&amp;sppp=1000&amp;page=1&amp;Keyword=multietch&amp;category=ALL&amp;highprice=&amp;lowprice=&amp;allwords=multietch&amp;exact=&amp;atleast=&amp;without=&amp;cprice=&amp;searchfields=">Order online (Canada only)</a></strong>
-<a href="mailto:customerservice@theringlord.com">Email The Ring Lord</a>
-(855) 746-4567
-<a href="http://theringlord.com">www.theringlord.com</a></p>
+<dl>
+<dt><strong><a href="http://theringlord.com/cart/shopdisplayproducts.asp?Search=Yes&amp;sppp=1000&amp;page=1&amp;Keyword=multietch&amp;category=ALL&amp;highprice=&amp;lowprice=&amp;allwords=multietch&amp;exact=&amp;atleast=&amp;without=&amp;cprice=&amp;searchfields=">Order online (Canada only)</a></strong></dt>
+<dd><a href="mailto:customerservice@theringlord.com">Email The Ring Lord</a></dd>
+<dd>(855) 746-4567</dd>
+<dd><a href="http://theringlord.com">www.theringlord.com</a></dd>
+</dl>
 
 <h2 id="anodizing-production-equipment">Anodizing Production Equipment</h2>
 
@@ -271,9 +445,9 @@
 
 <h2 id="other-uses-of-multi-etch">Other Uses of Multi-Etch®</h2>
 
-<p>I am always eager to learn more about what Multi-Etch<sup>®</sup> can and cannot do. Please email me with comments, complaints, or kudos: <a href="mailto:info@multietch.com">info@multietch.com</a>.</p>
+<p>I am always eager to learn more about what Multi-Etch® can and cannot do. Please email me with comments, complaints, or kudos: <a href="mailto:info@multietch.com">info@multietch.com</a>.</p>
 
-<p>—Chris Boothe, developer, Multi-Etch<sup>®</sup></p>
+<p>—Chris Boothe, developer, Multi-Etch®</p>
 
   </article>
   
@@ -345,6 +519,9 @@ The sixth of January, 1482, is not, however, a day of which history has preserve
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://localhost:1313/" >
     &copy; 2018 Multi-Etch® LLC
   </a>
+  <span class="f4 fw4 no-underline white-70 dn dib-ns pv2 ph3">
+    Powered by <a href="https://gohugo.io/" target="_blank" class="white">Hugo</a>, web development by <a href="http://rootwork.org" target="_blank" class="white">Rootwork.org</a>
+  </span>
   
 
 

@@ -42,7 +42,7 @@ SectionPagesMenu = "secondary"
   filename = "sitemap.xml"
 
 [params]
-  body_classes = ""
+  body_classes = "bg-near-white"
   favicon = ""
   logo = "/images/logo.png"
   facebook = ""
