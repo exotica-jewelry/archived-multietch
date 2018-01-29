@@ -42,6 +42,7 @@ SectionPagesMenu = "secondary"
   filename = "sitemap.xml"
 
 [params]
+  env = "production"
   body_classes = "bg-near-white"
   favicon = ""
   logo = "/images/logo.png"
