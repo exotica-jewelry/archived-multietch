@@ -3,6 +3,8 @@ date: 2018-01-01T00:00:00-07:00
 title: "Anodizing with Multi-Etch®"
 ---
 
+{{< youtube DcjpP3toIac >}}
+
 How much to use and how long to etch will, of course, vary depending on what metal you use and what effect you’re after. Below are two examples.
 
 **Example 1:** For a production run of 50 **titanium** parts, approximately one square inch each, I use one cup of Multi-Etch® in a two-cup Pyrex® container, heated to about 150° F. You can use a thermometer or look for the built in Multi-Etch® bubbles which tell you when it’s ready to use (visual check.) These tiny bubbles appear when the Multi-Etch® is brought up to the correct temperature. I dangle a pair of earrings from a niobium wire into the Multi-Etch® for 3 to 10 seconds and then rinse in distilled water. If I did three production runs a week, I would change the Pyrex® cup about every three months. If you wait too long, the cup can shatter and make a mess.

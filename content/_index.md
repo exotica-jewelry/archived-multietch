@@ -8,8 +8,6 @@ description: "Optimize titanium for welding and anodizing without hydrofluoric a
 
 {{< figure src="/images/ita.jpg" alt="Proud member of the International Titanium Association" link="http://www.titanium.org" >}}
 
-{{< youtube DcjpP3toIac >}}
-
 <a class="db pv3 b--white" id="preparing"></a><div class="flex-l justify-between mv4"><a href="/preparing/welding" title="How Multi-Etch® can be used when welding metals" class="preparing-button db dib-l pa3 mb4 mb0-l mr2-l tc f2 white br-pill">Preparing welding</a> <a href="/preparing/anodizing" title="How Multi-Etch® can be used when anodizing metals" class="preparing-button db dib-l pa3 ml2-l tc f2 white br-pill">Preparing anodizing</a></div>
 
 ## Using Multi-Etch® on Various Metals
