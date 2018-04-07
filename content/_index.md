@@ -63,33 +63,9 @@ Here is some meteorite showing before and after treatment with Multi-Etch:
 
 Although my experience is with jewelry, there are many other industries where Muti-Etch is used, such as the dental and medical industries which use a lot of titanium.
 
-## Other questions and answers
+## Frequently asked questions
 
-**Make sure to read all the instructions for titanium [welding](/preparing/welding) or [anodizing](/preparing/anodizing).**
-
-### How long will Multi-Etch last?
-
-For dry powder: at least 11 years.
-
-The shelf life for mixed UNUSED Multi-Etch solution is at least 8 months. (Keep it capped!)
-
-One way you can maximize the usefulness of a Multi-Etch bath is to etch as many parts as possible before anodizing. After the titanium pieces are etched, place them into a holding tank of deionized water or base coat them with 10 volts. Either method seals the surface, inhibiting any oxidation. Later, the pieces can be anodized at the required level. We’ve tested samples that were base-coated (anodized 10 volts) and years later they will anodize vividly with the application of higher voltages.
-
-### How much titanium or niobium will one gallon of Multi-Etch etch?
-
-Approximately 1,500 square inches of titanium when dipped for three seconds at 120–150°F. As you etch, the etchant gradually becomes ineffective and trends toward a lower pH.
-
-### Can I restore the effectiveness of Multi-Etch after it has been used?
-
-No, that’s why it’s best to use only as much as you need in any one sitting, leaving the rest unadulterated.
-
-### How long should I etch to remove anodizing mistakes?
-
-If you simply went past your target color, you can dip the piece briefly in Multi-Etch and it will work backward through the colors. Be sure to rinse as soon as you see the color you want.
-
-If the color is uneven and you want to start over, etch time will be longer than when you etched the raw metal. Just keep etching until the color disappears.
-
-_If you discover something not covered here, please let us know! [info@multietch.com](mailto:info@multietch.com)_
+Make sure to read all the instructions for titanium [welding](/preparing/welding) or [anodizing](/preparing/anodizing), then check the [FAQ](/faq/).
 
 ## Safety of Multi-Etch®
 
@@ -110,9 +86,13 @@ Artists and metalsmiths working with hydrofluoric acid need to realize the dire 
 
 [Here is one report on the seriousness of exposure to hydrofluoric acid.](https://www.chem.purdue.edu/chemsafety/chem/HFfatality.php) I spent several years testing different formulations until I perfected a product that met my exacting quality standards and that I’m proud to use in my own work.
 
+[Here is an article with more details](http://anodizetitanium.com/titanium-anodizing/multi-etch-the-safer-way-to-etch-titanium/) on the development of Multi-Etch®.
+
 ## Ordering Multi-Etch®
 
-Multi-Etch is available in the **United States** through:
+#### United States
+
+Multi-Etch® is available in the **United States** through:
 
 **Reactive Metals Studio**, Clarkdale, AZ
 : [Email Reactive Metals
@@ -120,12 +100,20 @@ Multi-Etch is available in the **United States** through:
 : [(800) 876-3434](tel:+18008763434) or [(928) 634-3434](tel:+19286343434)
 : [www.reactivemetals.com](http://www.reactivemetals.com)
 
-Available in **Canada** through **The Ring Lord**.
+#### Canada
+
+Multi-Etch® is available in **Canada** through **The Ring Lord**.
 
 **[Order online (Canada only)](http://theringlord.com/cart/shopdisplayproducts.asp?Search=Yes&sppp=1000&page=1&Keyword=multietch&category=ALL&highprice=&lowprice=&allwords=multietch&exact=&atleast=&without=&cprice=&searchfields=)**
 : [Email The Ring Lord](mailto:customerservice@theringlord.com)
 : [(855) 746-4567](tel:+18557464567)
 : [www.theringlord.com](http://theringlord.com)
+
+#### Countries outside of the U.S. and Canada
+
+Minimum of 100 units for these orders.
+: [Email Multi-Etch®](mailto:info@multietch.com)
+: [+1 (928) 634-3434](tel:+19286343434)
 
 ## Anodizing production equipment
 

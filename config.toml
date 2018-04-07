@@ -29,6 +29,11 @@ enableRobotsTXT = true
     url = "/#safety-of-multi-etch"
     weight = -20
 [[menu.main]]
+    name = "FAQ"
+    identifier = "Frequently asked questions about Multi-Etch®"
+    url = "/faq/"
+    weight = -15
+[[menu.main]]
     name = "How to Order"
     identifier = "Ordering Multi-Etch®"
     url = "/#ordering-multi-etch"

@@ -97,3 +97,7 @@ It’s possible that if you purchased distilled water in a plastic jug that has 
 ##### Sometimes everything is “correct”…
 
 …but you still can’t get even, consistent color in the higher voltages. This is not because of the etchant but is due to **inconsistencies of the metal** itself. High-voltage colors are the hardest colors to achieve so if you have a choice, choose a lower voltage color, especially for the problem pieces.
+
+### Frequently asked questions
+
+Read other [frequently asked questions about Multi-Etch®](/faq/).
