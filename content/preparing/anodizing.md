@@ -101,3 +101,17 @@ It’s possible that if you purchased distilled water in a plastic jug that has 
 ### Frequently asked questions
 
 Read other [frequently asked questions about Multi-Etch®](/faq/).
+
+# Removing color with Multi-Etch®
+
+### Titanium: Heated, regular-strength Multi-Etch®
+
+Dip pieces for 30–60 seconds. High-voltage colors take longer.
+
+### Titanium: Room-temperature, double-strength Multi-Etch®
+
+Dip pieces for 6–8 minutes.
+
+### Niobium
+
+Removing color from niobium takes considerably longer than titanium, up to 30 minutes in heated Multi-Etch® to remove high-voltage colors.
