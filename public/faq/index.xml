@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frequently asked questions about Multi-Etch® on Multi-Etch®</title>
+    <link>http://localhost:1313/faq/</link>
+    <description>Recent content in Frequently asked questions about Multi-Etch® on Multi-Etch®</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Multi-Etch® LLC</copyright>
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/faq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
