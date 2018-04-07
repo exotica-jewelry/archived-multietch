@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multi-Etch®</title>
-    <link>http://multietch.com/</link>
+    <link>https://multietch.com/</link>
     <description>Recent content on Multi-Etch®</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Multi-Etch® LLC</copyright>
     <lastBuildDate>Sun, 01 Apr 2018 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="http://multietch.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://multietch.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Removing color from titanium and niobium</title>
-      <link>http://multietch.com/preparing/color-removal/</link>
+      <link>https://multietch.com/preparing/color-removal/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
       
-      <guid>http://multietch.com/preparing/color-removal/</guid>
+      <guid>https://multietch.com/preparing/color-removal/</guid>
       <description>Titanium: Heated, regular-strength Multi-Etch® Dip pieces for 30–60 seconds. High-voltage colors take longer.
 Titanium: Room-temperature, double-strength Multi-Etch® Dip pieces for 6–8 minutes.
 Niobium Removing color from niobium takes considerably longer than titanium, up to 30 minutes in heated Multi-Etch® to remove high-voltage colors.</description>
@@ -25,50 +25,50 @@ Niobium Removing color from niobium takes considerably longer than titanium, up 
     
     <item>
       <title>Anodizing with Multi-Etch®</title>
-      <link>http://multietch.com/preparing/anodizing/</link>
+      <link>https://multietch.com/preparing/anodizing/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
       
-      <guid>http://multietch.com/preparing/anodizing/</guid>
+      <guid>https://multietch.com/preparing/anodizing/</guid>
       <description>How much to use and how long to etch will, of course, vary depending on what metal you use and what effect you’re after. Below are two examples.
 Example 1: For a production run of 50 titanium parts, approximately one square inch each, I use one cup of Multi-Etch® in a two-cup Pyrex® container, heated to about 150° F. You can use a thermometer or look for the built in Multi-Etch® bubbles which tell you when it’s ready to use (visual check.</description>
     </item>
     
     <item>
       <title>Etching brass with Multi-Etch®</title>
-      <link>http://multietch.com/metal/brass/</link>
+      <link>https://multietch.com/metal/brass/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
       
-      <guid>http://multietch.com/metal/brass/</guid>
+      <guid>https://multietch.com/metal/brass/</guid>
       <description>I originally perfected Multi-Etch® for titanium production. It’s a nonacid (pH 6.8) alternative to hydrofluoric acid. I’ve also tested it on other metals with great results.
 You can use Multi-Etch® for etching brass; the brass will etch more quickly than titanium.</description>
     </item>
     
     <item>
       <title>Etching copper with Multi-Etch®</title>
-      <link>http://multietch.com/metal/copper/</link>
+      <link>https://multietch.com/metal/copper/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
       
-      <guid>http://multietch.com/metal/copper/</guid>
+      <guid>https://multietch.com/metal/copper/</guid>
       <description>I originally perfected Multi-Etch® for titanium production. It’s a nonacid (pH 6.8) alternative to hydrofluoric acid. I’ve also tested it on other metals with great results.
 You can use Multi-Etch® for etching copper; the copper will etch more quickly than titanium.</description>
     </item>
     
     <item>
       <title>Etching gold with Multi-Etch®</title>
-      <link>http://multietch.com/metal/gold/</link>
+      <link>https://multietch.com/metal/gold/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
       
-      <guid>http://multietch.com/metal/gold/</guid>
+      <guid>https://multietch.com/metal/gold/</guid>
       <description>I originally perfected Multi-Etch® for titanium production. It’s a nonacid (pH 6.8) alternative to hydrofluoric acid. I’ve also tested it on other metals with great results.
 I have used Multi-Etch® to remove broken steel drill bits trapped in titanium and gold. You can use Multi-Etch® to remove light firescale from silver, but not from gold.</description>
     </item>
     
     <item>
       <title>Etching meteorite with Multi-Etch®</title>
-      <link>http://multietch.com/metal/meteorite/</link>
+      <link>https://multietch.com/metal/meteorite/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
       
-      <guid>http://multietch.com/metal/meteorite/</guid>
+      <guid>https://multietch.com/metal/meteorite/</guid>
       <description>I originally perfected Multi-Etch® for titanium production. It’s a nonacid (pH 6.8) alternative to hydrofluoric acid. I’ve also tested it on other metals with great results.
 Multi-Etch® will enhance the patterns in mokume and the crystals in meteorites by etching the different metals at different rates, thus slightly raising one over another.
 Here is some meteorite showing before and after treatment with Multi-Etch®:
@@ -77,30 +77,30 @@ Here is some meteorite showing before and after treatment with Multi-Etch®:
     
     <item>
       <title>Etching mokume with Multi-Etch®</title>
-      <link>http://multietch.com/metal/mokume/</link>
+      <link>https://multietch.com/metal/mokume/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
       
-      <guid>http://multietch.com/metal/mokume/</guid>
+      <guid>https://multietch.com/metal/mokume/</guid>
       <description>I originally perfected Multi-Etch® for titanium production. It’s a nonacid (pH 6.8) alternative to hydrofluoric acid. I’ve also tested it on other metals with great results.
 Multi-Etch® will enhance the patterns in mokume and the crystals in meteorites by etching the different metals at different rates, thus slightly raising one over another.</description>
     </item>
     
     <item>
       <title>Etching niobium with Multi-Etch®</title>
-      <link>http://multietch.com/metal/niobium/</link>
+      <link>https://multietch.com/metal/niobium/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
       
-      <guid>http://multietch.com/metal/niobium/</guid>
+      <guid>https://multietch.com/metal/niobium/</guid>
       <description>I originally perfected Multi-Etch® for titanium production. It’s a nonacid (pH 6.8) alternative to hydrofluoric acid. I’ve also tested it on other metals with great results.
 On niobium, I use Multi-Etch® to remove anodizing mistakes and to clean off contamination—iron from rolling mills, heat oxides, etc. Multi-Etch® will maintain the finish on niobium as long as the metal is not etched too long.</description>
     </item>
     
     <item>
       <title>Etching platinum with Multi-Etch®</title>
-      <link>http://multietch.com/metal/platinum/</link>
+      <link>https://multietch.com/metal/platinum/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
       
-      <guid>http://multietch.com/metal/platinum/</guid>
+      <guid>https://multietch.com/metal/platinum/</guid>
       <description>I originally perfected Multi-Etch® for titanium production. It’s a nonacid (pH 6.8) alternative to hydrofluoric acid. I’ve also tested it on other metals with great results.
 You can clean iron contamination from platinum without removing any platinum ions. I’ve done limited testing with Multi-Etch® on platinum for etch effects—that is, removal of platinum ions—and there doesn’t seem to be any effect.
 I manufacture a line of titanium wedding rings with platinum inlays.</description>
@@ -108,30 +108,30 @@ I manufacture a line of titanium wedding rings with platinum inlays.</descriptio
     
     <item>
       <title>Etching rhodium with Multi-Etch®</title>
-      <link>http://multietch.com/metal/rhodium/</link>
+      <link>https://multietch.com/metal/rhodium/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
       
-      <guid>http://multietch.com/metal/rhodium/</guid>
+      <guid>https://multietch.com/metal/rhodium/</guid>
       <description>I originally perfected Multi-Etch® for titanium production. It’s a nonacid (pH 6.8) alternative to hydrofluoric acid. I’ve also tested it on other metals with great results.
 I have not tested Multi-Etch® with rhodium plating, but I have used it to clean iron contamination from platinum without removing any platinum ions. I believe there would be a similar effect with rhodium.</description>
     </item>
     
     <item>
       <title>Etching silver with Multi-Etch®</title>
-      <link>http://multietch.com/metal/silver/</link>
+      <link>https://multietch.com/metal/silver/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
       
-      <guid>http://multietch.com/metal/silver/</guid>
+      <guid>https://multietch.com/metal/silver/</guid>
       <description>I originally perfected Multi-Etch® for titanium production. It’s a nonacid (pH 6.8) alternative to hydrofluoric acid. I’ve also tested it on other metals with great results.
 You can use Multi-Etch® to remove light firescale from silver.</description>
     </item>
     
     <item>
       <title>Welding with Multi-Etch®</title>
-      <link>http://multietch.com/preparing/welding/</link>
+      <link>https://multietch.com/preparing/welding/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
       
-      <guid>http://multietch.com/preparing/welding/</guid>
+      <guid>https://multietch.com/preparing/welding/</guid>
       <description>When welding titanium components that need to withstand the rigors of deep space and deep water, it is critical to have absolutely clean titanium and that is what Multi-Etch® will provide.
 Double strength is recommended for etching at room temperature; heated solution works faster.
 When using Multi-Etch® at room temperature, dip your pieces for 90 seconds and rinse thoroughly; for complex surfaces ultrasonic cleaning is recommended to remove any residual Multi-Etch®.</description>

@@ -1,4 +1,4 @@
-baseURL = "http://multietch.com/"
+baseURL = "https://multietch.com/"
 languageCode = "en-us"
 theme = "ananke"
 
