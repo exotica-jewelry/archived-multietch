@@ -113,7 +113,7 @@ Multi-Etch® is available in **Canada** through **The Ring Lord**.
 
 Minimum of 100 units for these orders.
 : [Email Multi-Etch®](mailto:info@multietch.com)
-: [+1 (928) 634-3434](tel:+19286343434)
+: [+1 (928) 634-5307](tel:+19286345307)
 
 ## Anodizing production equipment
 
