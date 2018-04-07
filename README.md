@@ -2,4 +2,10 @@
 
 This website is built using [Hugo](https://gohugo.io), with the [Ananke theme](https://themes.gohugo.io/gohugo-theme-ananke/) (customized).
 
-Run `hugo` to generate the site, and `hugo serve --renderToDisk` for development at `http://localhost:1313/`.
+## Development build
+
+Run `hugo serve --renderToDisk` for development at `http://localhost:1313/`.
+
+## Production build
+
+Run `hugo` to generate the site for production. Be sure to do this after any development.
