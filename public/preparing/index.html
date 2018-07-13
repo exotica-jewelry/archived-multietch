@@ -9,7 +9,7 @@
     <meta name="MobileOptimized" content="320">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.32.2" />
+    <meta name="generator" content="Hugo 0.42.1" />
     
     
       <meta name="robots" content="index, follow">
@@ -17,8 +17,8 @@
 
     <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Bitter:400,400i,700/Source+Sans+Pro:400,400i,700,700i">
 
-    <link href='https://multietch.com/dist/main.css' rel='stylesheet' type="text/css" />
-    <link href='https://multietch.com/multietch.css' rel='stylesheet' type="text/css" />
+    <link href='http://localhost:1313/dist/main.css' rel='stylesheet' type="text/css" />
+    <link href='http://localhost:1313/multietch.css' rel='stylesheet' type="text/css" />
 
     
       
@@ -32,14 +32,14 @@
     
 
     
-      <link href="https://multietch.com/preparing/index.xml" rel="alternate" type="application/rss+xml" title="Multi-Etch®" />
-      <link href="https://multietch.com/preparing/index.xml" rel="feed" type="application/rss+xml" title="Multi-Etch®" />
+      <link href="http://localhost:1313/preparing/index.xml" rel="alternate" type="application/rss+xml" title="Multi-Etch®" />
+      <link href="http://localhost:1313/preparing/index.xml" rel="feed" type="application/rss+xml" title="Multi-Etch®" />
     
 
     <meta property="og:title" content="Preparing metals with Multi-Etch®" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://multietch.com/preparing/" />
+<meta property="og:url" content="http://localhost:1313/preparing/" />
 
 
 
@@ -57,16 +57,21 @@
 <meta itemprop="name" content="Preparing metals with Multi-Etch®">
 <meta itemprop="description" content="">
 
-<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Preparing metals with Multi-Etch®"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Preparing metals with Multi-Etch®"/>
 <meta name="twitter:description" content=""/>
 
       
 <script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-3313284-5', 'auto');
-ga('send', 'pageview');
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-3313284-5', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
     
   </head>
@@ -79,11 +84,11 @@ ga('send', 'pageview');
 
 
 
-  <header class="cover bg-top" style="background-image: url('https://multietch.com/images/header.jpg');">
+  <header class="cover bg-top" style="background-image: url('http://localhost:1313/images/header.jpg');">
     <div class="bg-black-10">
       <nav class="fixed-l pv0 ph0 bg-black-30 tc tl-l" role="navigation" >
   <div class="mh3 mh4-ns flex-l justify-between items-center center">
-    <a href="https://multietch.com/" class="mh2 mh3-ns f3 fw3 hover-white white-90 pv3 dib">
+    <a href="http://localhost:1313/" class="mh2 mh3-ns f3 fw3 hover-white white-90 pv3 dib">
       Multi-Etch®
     </a>
     <div class="flex-l items-center">
@@ -138,7 +143,7 @@ ga('send', 'pageview');
       <div class="tc-m tc-l pv0 ph3 ph4-ns">
         <h1 class="f2 f-subheadline-l fw2 white-90 mb0 mt0 lh-title">
           <span class="dn">Preparing metals with Multi-Etch®</span>
-          <img src="https://multietch.com/images/logo.png" alt="Preparing metals with Multi-Etch®: A safer alternative since 1993" />
+          <img src="http://localhost:1313/images/logo.png" alt="Preparing metals with Multi-Etch®: A safer alternative since 1993" />
         </h1>
         
       </div>
@@ -233,7 +238,7 @@ ga('send', 'pageview');
     <footer class="bg-near-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
     <span class="dib-ns pv2 ph3">
-      <a class="f5 f4-ns white db" href="https://multietch.com/" >
+      <a class="f5 f4-ns white db" href="http://localhost:1313/" >
         &copy; 2018 <span class="nowrap">Multi-Etch® LLC</span>
       </a>
       <a class="f6 f5-ns white db" href="mailto:info@multietch.com">info@multietch.com</a>
@@ -254,7 +259,7 @@ ga('send', 'pageview');
   </div>
 </footer>
 
-    <script src="https://multietch.com/dist/app.bundle.js" async></script>
+    <script src="http://localhost:1313/dist/app.bundle.js" async></script>
 
-  </body>
+  <script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
 </html>

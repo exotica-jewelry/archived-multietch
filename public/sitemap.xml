@@ -3,125 +3,125 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://multietch.com/faq/</loc>
+    <loc>http://localhost:1313/faq/</loc>
     <lastmod>2018-04-01T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://multietch.com/preparing/color-removal/</loc>
+    <loc>http://localhost:1313/preparing/color-removal/</loc>
     <lastmod>2018-04-01T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://multietch.com/preparing/anodizing/</loc>
+    <loc>http://localhost:1313/preparing/anodizing/</loc>
     <lastmod>2018-01-01T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://multietch.com/metal/brass/</loc>
+    <loc>http://localhost:1313/metal/brass/</loc>
     <lastmod>2018-01-01T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://multietch.com/metal/copper/</loc>
+    <loc>http://localhost:1313/metal/copper/</loc>
     <lastmod>2018-01-01T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://multietch.com/metal/gold/</loc>
+    <loc>http://localhost:1313/metal/gold/</loc>
     <lastmod>2018-01-01T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://multietch.com/metal/</loc>
+    <loc>http://localhost:1313/metal/</loc>
     <lastmod>2018-01-01T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://multietch.com/metal/meteorite/</loc>
+    <loc>http://localhost:1313/metal/meteorite/</loc>
     <lastmod>2018-01-01T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://multietch.com/metal/mokume/</loc>
+    <loc>http://localhost:1313/metal/mokume/</loc>
     <lastmod>2018-01-01T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://multietch.com/metal/niobium/</loc>
+    <loc>http://localhost:1313/metal/niobium/</loc>
     <lastmod>2018-01-01T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://multietch.com/metal/platinum/</loc>
+    <loc>http://localhost:1313/metal/platinum/</loc>
     <lastmod>2018-01-01T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://multietch.com/metal/rhodium/</loc>
+    <loc>http://localhost:1313/metal/rhodium/</loc>
     <lastmod>2018-01-01T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://multietch.com/metal/silver/</loc>
+    <loc>http://localhost:1313/metal/silver/</loc>
     <lastmod>2018-01-01T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://multietch.com/preparing/</loc>
+    <loc>http://localhost:1313/preparing/</loc>
     <lastmod>2018-01-01T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://multietch.com/preparing/welding/</loc>
+    <loc>http://localhost:1313/preparing/welding/</loc>
     <lastmod>2018-01-01T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://multietch.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://multietch.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2018-04-01T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://multietch.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

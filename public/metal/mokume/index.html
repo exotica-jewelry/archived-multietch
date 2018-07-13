@@ -9,7 +9,7 @@
     <meta name="MobileOptimized" content="320">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.32.2" />
+    <meta name="generator" content="Hugo 0.42.1" />
     
     
       <meta name="robots" content="index, follow">
@@ -17,8 +17,8 @@
 
     <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Bitter:400,400i,700/Source+Sans+Pro:400,400i,700,700i">
 
-    <link href='https://multietch.com/dist/main.css' rel='stylesheet' type="text/css" />
-    <link href='https://multietch.com/multietch.css' rel='stylesheet' type="text/css" />
+    <link href='http://localhost:1313/dist/main.css' rel='stylesheet' type="text/css" />
+    <link href='http://localhost:1313/multietch.css' rel='stylesheet' type="text/css" />
 
     
       
@@ -37,7 +37,7 @@
 <meta property="og:description" content="I originally perfected Multi-Etch® for titanium production. It’s a nonacid (pH 6.8) alternative to hydrofluoric acid. I’ve also tested it on other metals with great results.
 Multi-Etch® will enhance the patterns in mokume and the crystals in meteorites by etching the different metals at different rates, thus slightly raising one over another." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://multietch.com/metal/mokume/" />
+<meta property="og:url" content="http://localhost:1313/metal/mokume/" />
 
 
 
@@ -67,17 +67,22 @@ Multi-Etch® will enhance the patterns in mokume and the crystals in meteorites 
 
 
 <meta itemprop="keywords" content="" />
-<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Etching mokume with Multi-Etch®"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Etching mokume with Multi-Etch®"/>
 <meta name="twitter:description" content="I originally perfected Multi-Etch® for titanium production. It’s a nonacid (pH 6.8) alternative to hydrofluoric acid. I’ve also tested it on other metals with great results.
 Multi-Etch® will enhance the patterns in mokume and the crystals in meteorites by etching the different metals at different rates, thus slightly raising one over another."/>
 
       
 <script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-3313284-5', 'auto');
-ga('send', 'pageview');
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-3313284-5', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
     
   </head>
@@ -92,7 +97,7 @@ ga('send', 'pageview');
     <div class="bg-black">
       <nav class="fixed-l pv0 ph0 bg-black-30 tc tl-l" role="navigation" >
   <div class="mh3 mh4-ns flex-l justify-between items-center center">
-    <a href="https://multietch.com/" class="mh2 mh3-ns f3 fw3 hover-white white-90 pv3 dib">
+    <a href="http://localhost:1313/" class="mh2 mh3-ns f3 fw3 hover-white white-90 pv3 dib">
       Multi-Etch®
     </a>
     <div class="flex-l items-center">
@@ -252,7 +257,7 @@ ga('send', 'pageview');
     <footer class="bg-near-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
     <span class="dib-ns pv2 ph3">
-      <a class="f5 f4-ns white db" href="https://multietch.com/" >
+      <a class="f5 f4-ns white db" href="http://localhost:1313/" >
         &copy; 2018 <span class="nowrap">Multi-Etch® LLC</span>
       </a>
       <a class="f6 f5-ns white db" href="mailto:info@multietch.com">info@multietch.com</a>
@@ -273,7 +278,7 @@ ga('send', 'pageview');
   </div>
 </footer>
 
-    <script src="https://multietch.com/dist/app.bundle.js" async></script>
+    <script src="http://localhost:1313/dist/app.bundle.js" async></script>
 
-  </body>
+  <script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
 </html>
