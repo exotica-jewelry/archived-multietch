@@ -45,6 +45,8 @@ description: "Optimize titanium for welding and anodizing without hydrofluoric a
 
 #### [Click here for chart of Etch Times and Effects](/docs/MEetchTimes.pdf) (PDF) for all metals tested with Multi-Etch®.
 
+Note: chart shows dimensional effects. For recommended titanium anodizing times, see [preparing for anodizing](/preparing/anodizing/).
+
 More information on select metals is below. For metals not included here, [ask us](mailto:info@multietch.com) or send a sample and we’ll test it for you.
 
 {{< figure src="/images/MEcolor.jpg" alt="Demonstration of anodizing colors before and after using Multi-Etch®" caption="Anodized titanium unetched (top), and treated with Multi-Etch (bottom), anodized all at once." >}}
